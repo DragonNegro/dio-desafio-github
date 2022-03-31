@@ -1,0 +1,2 @@
+Link para douload do git: https://git-scm.com/downloads
+O Git Bash é uym terminal extendido para otimizar o uso do Git.
